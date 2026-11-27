@@ -1,0 +1,18 @@
+{
+  "name": "the-hype-social",
+  "version": "2.0.0",
+  "description": "The Hype Social - Digital Marketing Agency Web Platform powered by Supabase & Vercel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "digital-marketing",
+    "agency",
+    "supabase",
+    "vercel"
+  ],
+  "author": "The Hype Social",
+  "license": "ISC"
+}
